@@ -243,3 +243,10 @@ CLI
 CLIs
 SDK
 SDKs
+CSP
+XSS
+clickjacking
+OpenSSF
+CVSS
+csrc
+nist

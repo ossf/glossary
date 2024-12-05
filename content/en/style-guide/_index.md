@@ -9,9 +9,6 @@ menu:
 
 This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to keep a consistent style.
 
-The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) of the CNCF repository. 
-Additionally, it follows the following rules:
-
 1. Use simple, accessible language, avoiding technical jargon and buzzwords
 2. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
 3. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
@@ -26,11 +23,11 @@ Additionally, it follows the following rules:
 ## Audience
 
 The Glossary is written for technical *and* non-technical audiences.
-Please explain definitions in simple terms, and don’t assume technical knowledge. More about this is below in [Definition](#definition) and the [Sign Language Style Guide](#sign-language-style-guide).
+Please explain definitions in simple terms, and don’t assume technical knowledge.
 
 ## Minimum viable definition 
 
-We aim to make it easy for anyone to understand cloud native terms. 
+We aim to make it easy for anyone to understand OpenSSF terms. 
 As such, we focus on simplicity. 
 Use clear, simple language with examples anyone who uses technology can relate to while also providing a *minimum viable definition*, at least from a technical point of view. 
 We don't want to save on context and examples—after all, those things help the reader understand the concept—but if a technical detail is not needed to understand it, we'll skip it. 
@@ -46,18 +43,13 @@ Each glossary term is stored in a markdown file and follows this template:
 title: 
 status: 
 category: 
+tags:
 ---
 
 
 A quick summary of the technology or concept.
 
-## Problem it addresses 
-
-A few lines about the problem it's addressing.
-
-## How it helps
-
-A few lines on how the thing solves the problem.
+Source: (link to source)
 ```
 
 ### Title
@@ -98,14 +90,11 @@ An exception to this is the `fundamental` tag, which indicates this term is need
 
 The current tags are:
 
-- application
-- architecture
+- attack
+- defense
 - fundamental
-- infrastructure
-- methodology
-- networking
-- property
-- security
+- project
+- organization
 
 ```md
 ---
@@ -132,9 +121,6 @@ Please use **semantic line breaks** (one sentence per line) to ease review.
 
 #### Quality is paramount
 
-If merged, your submission will be the official CNCF definition for that term (until someone else improves it). 
-Creating a term that meets the CNCF's high standards can't be rushed—quality takes time and effort.
-
 **Do your research**: Even if you are confident you know the term, verify you got it right. 
 We often use terms in organizations in a certain way that may not reflect the full picture. 
 When researching, especially when you're not 100% familiar with the term, use multiple resources. 
@@ -145,8 +131,7 @@ The Glossary must contain vendor-neutral, globally accepted definitions.
 Don't copy and paste other people's work unless you are quoting and contributing it to them. 
 If you like a particular section of a definition, paraphrase it in your own words.
 
-**Reference authoritative resources**. When possible, link to authoritative resources such as project docs. 
-Note that we cannot link to content developed by vendors. 
+**Reference authoritative resources**. When possible, link to authoritative resources such as project docs.
 
 #### Keeping it simple
 
@@ -157,14 +142,6 @@ Avoid using industry terms and buzzwords—you might catch yourself returning to
 When appropriate, use **real-world examples** that help readers (especially non-technical ones) better understand *when* and *why* the idea you’re explaining is relevant. 
 
 When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
-
-**Example**: look at the summary section of the [service mesh definition](/service-mesh/). 
-It links back to the definitions of microservices, service, reliability, and observability. 
-Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) 
-to wifi problems (something anyone using a laptop can understand). 
-Where possible, try to make that connection. 
-
-
 
 #### Start with a Google or Word doc
 
@@ -179,95 +156,10 @@ Before getting started, please read some published Glossary terms
 to get a feeling for the level of detail and difficulty and when examples are appropriate.
 
 
-
-## Sign Language Video Style Guide {#sign-language-style-guide}
-
-If you are contributing a sign language video, please follow these guidelines to ensure our videos are clear, informative, and accessible to a wide audience (Including hearing community members).
-
-
-### Technical equipment
-
-All you need is a high-resolution camera and a stand. A modern smartphone should be enough.
-
-
-### Recording Setup
-
-
-
-* **Lighting:** Use frontal lighting to ensure your face and hands are well-lit.
-
-
-* **Background:** Record in front of a flat, solid background to avoid distractions from the signing. Ensure no distracting decorations are included.
-
-
-* **Dress Code:** Wear a solid, single-color top (no prints) that contrasts with your skin tone.
-
-
-* **Camera Position:** Ensure that your head to your elbows are visible on the screen, and position the camera at eye level. The camera should be perpendicular to the background so that it appears straight, not slanted.
-
-
-* **Signing Space:** Use as much space as possible to ensure you have full signing space while sitting or standing.
-
-
-* **Sound:** Mute the microphone (input audio) when possible to avoid involuntary background noise.
-
-### Signing
-
-
-
-* **Clarity and Accuracy:** Record the sign twice from a frontal orientation, signing slowly enough for non-signers to see and mimic it. Demonstrating signs from the side is unnecessary unless it adds clarity. 
-
-
-* **Facial Expression:** Use relaxed or neutral facial expressions. Mouthing or making grimaces is strongly discouraged. Maintain eye contact with the camera if possible.
-
-
-* **Frequency:** Only one sign is needed for each video, as playback can be looped. Repeating the sign in a video is unnecessary.
-
-
-* **Duration:** The total length of the video should not exceed 7 seconds.
-
-
-* **Fingerspelling:** Use sign language for the word as much as possible. Fingerspelling is the last resort, commonly reserved for abbreviated or short words.
-
-
-* **Posture:** Maintain a frontal orientation with eyes facing the camera while signing. Demonstrating signs using side orientation is unnecessary. When at rest, arms should be down with hands relaxed.
-
-### Tips
-
-
-
-* **Save storage space:** Please remember the shorter the video, the smaller the file would be. The faster it will upload.
-
-
-* **Mistakes are good:** Keep the recording running while making several attempts. It is more likely you will find a good clip in between tries, and you can trim the unwanted parts. This is more efficient than making multiple recordings with one sign attempt in each.
-
-
-* **Videos Examples:** Please refer to the [CNCF Glossary: Cloud Native Signs](https://www.youtube.com/playlist?list=PLj6h78yzYM2PDlYnmfpRfKgcgBMb34kb5) playlist for examples. 
-
-### Post-Production
-
-
-
-* **Editing:** If necessary, trim the beginning and the end of the video.
-
-
-* **Label:** At a minimum, the filename of the video should contain the glossary term of the sign before uploading. For example, kubernetes.mp4.
-
-
-* **Audio:** Remove the audio track entirely, if possible.
-
-
-* **Upload:** Share the video on the #glossary-sign-language Slack channel and ask for feedback. If approved, the Sign Language Glossary leads will help you upload the video to the CNCF Playlist. Please do not upload the videos to your personal YouTube as YouTube could potentially remove duplicate videos from all accounts using the same videos (to prevent monetizing abuse) as CNCF uses YouTube to upload final videos. 
-
-
-* **Video upload on CNCF playlist:** Share the video on the #glossary-sign-language Slack channel and ask for feedback. If approved, the Sign Language Glossary leads will help you upload the video to the CNCF Playlist. 
-
 ## The review process: What to expect
 
-Please note that we are currently only three maintainers doing this in their spare time. 
+Please note that the maintainers are doing this in limited time. 
 Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time—we appreciate your patience. 
-If you have any questions, please contact us in the #glossary Slack channel 
-(for where and how to find it, please refer to our [How To Contribute](/contribute/) doc).
 
 Our goal is for the Glossary to be the best possible resource. 
 Once you submit a PR, we may ask for one or more revisions. 
