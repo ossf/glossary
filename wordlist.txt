@@ -247,3 +247,6 @@ CSP
 XSS
 clickjacking
 OpenSSF
+CVSS
+crsc
+nist
