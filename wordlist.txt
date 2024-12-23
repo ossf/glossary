@@ -250,3 +250,10 @@ OpenSSF
 CVSS
 csrc
 nist
+cwe
+UI
+VolA
+nccoe
+CII
+interdependencies
+cisa
