@@ -257,3 +257,6 @@ nccoe
 CII
 interdependencies
 cisa
+CVE
+CSPM
+misconfigurations
