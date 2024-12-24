@@ -92,6 +92,7 @@ The current tags are:
 
 - attack
 - defense
+- vulnerability
 - fundamental
 - project
 - organization
