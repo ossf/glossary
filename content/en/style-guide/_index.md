@@ -90,6 +90,7 @@ An exception to this is the `fundamental` tag, which indicates this term is need
 
 The current tags are:
 
+- acronym
 - attack
 - defense
 - vulnerability
