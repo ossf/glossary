@@ -12,6 +12,7 @@ matrix:
     encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
+  - pyspelling.filters.url:
   - pyspelling.filters.html:
       comments: false
       ignores:
