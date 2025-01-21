@@ -17,7 +17,7 @@ Others definitions use the term DAST more broadly, where dynamic analysis is use
 attempts to split the difference, defining DAST as analyzing
 "applications in their dynamic, running state during testing or
 operational phases. They simulate attacks against an application
-(typically webenabled applications, services, and APIs), analyze
+(typically web-enabled applications, services, and APIs), analyze
 the application’s reactions, and determine whether it is vulnerable."
 
 Source: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf
