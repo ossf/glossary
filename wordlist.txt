@@ -260,3 +260,11 @@ cisa
 CVE
 CSPM
 misconfigurations
+DAST
+Breeden
+VeraCode
+Dechand
+Scanlon
+Sergej
+fuzzers
+
