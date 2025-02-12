@@ -5,6 +5,6 @@ category: concept
 tags: ["vulnerability", "", ""]
 ---
 
-The software copies an input buffer to an output buffer without verifying that the size of the input buffer is less than the size of the output buffer. It can lead to a denial of service or (in some cases) arbitrary code execution.
+A condition at an interface under which more input can be placed into a buffer or data holding area than the capacity allocated, overwriting other information. Adversaries exploit such a condition to crash a system or to insert specially crafted code that allows them to gain control of the system
 
-Source: https://cwe.mitre.org/data/definitions/120.html
+Source: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf
