@@ -49,6 +49,7 @@ codebases
 codefences
 config
 cpu
+CRA
 cri
 critic
 crm
