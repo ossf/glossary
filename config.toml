@@ -1,4 +1,4 @@
-baseURL = "https://glossary.openssf.org/"
+baseURL = "https://ossf.github.io/glossary"
 title = "OpenSSF Glossary"
 
 enableRobotsTXT = true

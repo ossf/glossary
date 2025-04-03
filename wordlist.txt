@@ -61,6 +61,7 @@ CVE
 CVSS
 cwe
 cyber
+cybersecurity
 daniel
 DAST
 datacenter
@@ -100,6 +101,8 @@ extra
 faas
 facelessuser
 faq
+FFRDC
+FFRDCs
 filenotfounderror
 filesystem
 flaxman
@@ -165,8 +168,10 @@ namespace
 namespaces
 navbar
 nccoe
+NCF
 Nginx
 nist
+NIST's
 observability
 oci
 oliveira
