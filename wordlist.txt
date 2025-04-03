@@ -57,10 +57,13 @@ CSP
 CSPM
 csrc
 customizable
+CWE
+CWEs
 CVE
 CVSS
 cwe
 cyber
+cybersecurity
 daniel
 DAST
 datacenter
@@ -95,11 +98,14 @@ entrypoint
 ephemerality
 errno
 escapeall
+exfiltration
 extensibility
 extra
 faas
 facelessuser
 faq
+FFRDC
+FFRDCs
 filenotfounderror
 filesystem
 flaxman
@@ -165,8 +171,10 @@ namespace
 namespaces
 navbar
 nccoe
+NCF
 Nginx
 nist
+NIST's
 observability
 oci
 oliveira
@@ -218,6 +226,7 @@ Sergej
 serverless
 sexualized
 SIG
+SIG's
 signup
 signups
 skipenes
