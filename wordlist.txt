@@ -96,6 +96,7 @@ entrypoint
 ephemerality
 errno
 escapeall
+exfiltration
 extensibility
 extra
 faas
