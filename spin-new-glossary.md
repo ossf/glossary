@@ -1,6 +1,6 @@
 # Creating your own glossary
 
-You are welcome to use the code in this repository to spin up your own glossary. Follow these instructions for modifying the code to fit your use-case.
+You are welcome to use the code in this repository to spin up your own glossary. Follow these instructions for modifying the code to fit your use-case. The instructions below reference the CNCF Glossary, the open source project from which this glossary was spun.
 
 ## Get the code
 

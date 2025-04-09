@@ -1,5 +1,13 @@
 # Localization
 
+## OpenSSF Glossary
+
+The first version of the OpenSSF Glossary has been created in English. The CNCF Glossary, an open source project from which this Glossary was created, includes the ability to localize into multiple languages.
+
+Below is the information from the CNCF project on localization, which we can consider for OpenSSF in the future.
+
+## CNCF Localization information
+
 Now that the first version of the cloud native glossary is live,
 we'd love to start localizing it into different languages. 
 

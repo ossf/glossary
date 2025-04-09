@@ -1,3 +1,3 @@
 # Code of Conduct
 
-The [CNCF](https://www.cncf.io/) Cloud Native Glossary Project follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+The [OpenSSF](https://www.openssf.org/) OpenSSF Glossary Project follows the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/).
