@@ -7,31 +7,28 @@ menu:
     weight: 10
 ---
 
-Hi there! 👋 Thanks for your interest in contributing to the CNCF Cloud Native Glossary project. 
-Whether you contribute new terms, help localize the Glossary into your native language, 
-or want to help others get started, there are many ways to become an active member of this community. 
+Hi there! 👋 Thanks for your interest in contributing to the OpenSSF Glossary project. 
+Whether you contribute new terms or want to help others get started, there are many ways to become an active member of this community. 
 This doc outlines the different contributor roles within the project and the responsibilities and privileges that come with them.
 
 ## 1. Contributors
 
 The Glossary is for everyone. Anyone can become a Glossary contributor simply by contributing to the project. 
-All contributors are expected to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
+All contributors are expected to follow the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/).
 
 There are a variety of ways you can contribute to the project, including:
 
 - **Content contributors**: everyone who improves existing terms or contributes new ones, 
-- **Localization contributors**: those who help translate the glossary into another language,
 - **Helpers**: anyone who helps others on GitHub, Slack, or wherever community members need support,
 - **Ambassadors**: anyone who helps spread the word, educates the community on how to contribute and why they should do so. 
 
 Contributors can have multiple roles or focus on one area only. 
 **All these contributions are equally important** and help foster a thriving community. 
-Please refer to the [How to Contribute](/contribute/) and [Style Guide](/style-guide/) for content and localization contributions.
+Please refer to the [How to Contribute](/contribute/) and [Style Guide](/style-guide/) for content contributions.
 
 ## 2. Approvers
 
 Approvers provide feedback on PRs and approve them. Any active contributor can become an approver (see [Becoming an approver](#becoming-an-approver)). 
-The Glossary differentiates between two approvers: (1) approvers for the English Glossary and (2) approvers for localization teams.
 
 Glossary approvers are expected to:
 
@@ -56,16 +53,9 @@ However, if they approve a PR on technical merit, they must ensure it is reviewe
 **Editors**: Editors proofread terms and ensure they are explained in simple language according to the Style Guide. 
 If a term is heavily edited, the editor must request a technical approver to review it again to ensure the meaning wasn't altered.
 
-### Localization Approvers
-
-The Glossary also has localization approvers. These are approvers for one of the localization teams (teams translating the glossary). 
-Localization approvers are only permitted to perform approver duties for their own team and have the ability to merge PRs to their dedicated development branch. 
-Any localization approver can also become an approver for the English Glossary if they meet the requirements. 
-
 ### Becoming an Approver
 
 Approver candidates should have a proven track record of submitting high-quality PRs and helping others get their PRs in a mergeable state. 
-If their timezone permits, they should also regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/).
 
 To become an approver, start by expressing interest to existing maintainers. 
 Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. 
@@ -79,15 +69,15 @@ There are certain expectations for maintainers, including:
 
 - Be an active and responsive approver (see above),
 - Help maintain the repository, including site configuration, permission, issue-template, GitHub workflow, among others,
-- Monitor the Glossary Slack channels and help out whenever possible,
-- Regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/) (if timezone permits)
+- Monitor the OpenSSF Slack channels and help out whenever possible,
+- Regularly attend the [Best Practices Working Group meetings](https://www.openssf.org/getinvolved/) (if timezone permits)
 
 If a maintainer is no longer interested in or cannot perform the duties listed above, they should move themselves to emeritus status.
 
 ### Becoming a Maintainer
 
 Maintainers should have a proven track record of being successful approvers and submitting high-quality PRs. 
-If their timezone permits, they should also regularly attend the Glossary Working Group meetings.
+If their timezone permits, they should also regularly attend the Best Practices Working Group meetings.
 
 To become a maintainer, start by expressing interest to existing maintainers. 
 Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. 
