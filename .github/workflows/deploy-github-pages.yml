@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - gh-pages  # <-- specify the branch you want to deploy from
+      - main  # <-- specify the branch you want to deploy from
   pull_request:
 
 env:
@@ -35,10 +35,10 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
 
       - run: npm ci
-      - run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify
+      - run: hugo --baseURL https://glossary.openssf.org --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/gh-pages' }} # <-- specify same branch as above here
+        if: ${{ github.ref == 'refs/heads/main' }} # <-- specify same branch as above here
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
