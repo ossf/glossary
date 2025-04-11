@@ -15,30 +15,14 @@ There are a number of ways you can contribute to this project, which we'll cover
 1) [Work on an existing issue](#work-on-an-existing-issue)
 2) [Propose new terms](#propose-new-terms)
 3) [Update existing ones](#update-an-existing-term)
-4) [Localize the glossary](#help-localize-the-glossary)
 
-## CNCF glossary overview 
+## OpenSSF glossary overview 
 
 The goal of this glossary is to simplify the open source software security space and thus make it more accessible to people. 
 
 The OpenSSF Glossary content is stored in [this GitHub repo](https://github.com/ossf/glossary) 
 where you'll find a list of [issues](https://github.com/ossf/glossary/issues), pull requests ([PRs](https://github.com/ossf/glossary/pulls)), and 
 [discussions](https://github.com/ossf/glossary/discussions) about the glossary. 
-
-## Who can contribute?
-
-How you can participate in this project depends on your level of cloud native expertise. 
-Simplifying complex concepts requires a deep knowledge of the topic. 
-Therefore, to contribute new terms, you must be proficient in them. 
-Contributors are typically engineers who have worked with these technologies for some time or academics focused on cloud native. 
-
-That know-how is required because explaining complex concepts in simple words is _really_ hard. And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity results from hard work and collaboration between cloud native experts. 
-
-If you are not a cloud native expert yet but still want to contribute, we recommend teaming up with someone who is. 
-Once the expert is confident that the term accurately describes the concept, you are ready for your first Glossary contribution.
-
-The localization effort is where beginners proficient in another language can make valuable contributions to the Glossary. 
-With solid existing definitions in English, less experienced contributors can localize terms to a target language. You can join an existing localization team or create a new one. Read this guide's [Help Localize the glossary](#help-localize-the-glossary) section to learn how to get started. 
 
 ## Before you start
 
@@ -60,16 +44,14 @@ And when naming .md files, please use lowercase letters and hyphens instead of s
 
 Read our [Style Guide](/style-guide/) to understand our guidelines for formatting and writing documents and make the contribution process more efficient. 
 
-## Join the Glossary community! {#join-the-glossary-community}
+## Join the Best Practices community! {#join-the-glossary-community}
 
-If you want to contribute regularly, consider joining our monthly Glossary Working Group meetings. 
-You can find the meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). 
-You can also connect with the maintainers and fellow contributors in our [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack 
-— we'd love to meet you! 
+If you want to contribute regularly, consider joining our Best Practices for Open Source Developers Working Group meetings. 
+You can find the meeting details in the [OpenSSF calendar](https://openssf.org/getinvolved/).
 
 ## Work on an existing issue {#work-on-an-existing-issue}
 
-Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues) to find a list of available issues. 
+Go to the [Glossary GitHub repo issues](https://github.com/ossf/glossary/issues) to find a list of available issues. 
 You can use labels (e.g., English language, help needed, good first issue) to filter out issues.
 
 ![Issue and labels](/images/how-to/issue-and-labels.png)
@@ -83,9 +65,6 @@ Once you select a term to work on, comment on the issue.
 
 ![Claiming an issue](/images/how-to/claiming-an-issue.png)
 
-Additionally, notify the maintainers on the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel of the CNCF Slack workspace and 
-tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ to be sure they don't miss it.
-
 For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term) section.
 
 **Note**: you can start working on an issue after the maintainers assigned it to you. 
@@ -96,8 +75,6 @@ Workig on multiple terms is sequential, you must complete a term before claiming
 
 You can propose a new term for others to work on or create a new definition yourself. 
 Either way, you'll start by [creating an issue](#creating-an-issue). 
-To be added to the glossary, every new term must meet the [CNCF's cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md). 
-The only exceptions are foundational terms needed to understand cloud native concepts.
 
 Below is a step-by-step guide for people unfamiliar with GitHub. 
 **If you are a GitHub Pro**, please _do_ scan this guide to gather enough information about the following topics:
@@ -108,7 +85,7 @@ Below is a step-by-step guide for people unfamiliar with GitHub.
 
 ### Creating an issue {#creating-an-issue}
 
-Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues and click on "New issue".
+Go to the [Glossary GitHub repo](https://github.com/ossf/glossary/issues) issues and click on "New issue".
 
 ![issues](/images/how-to/howto-01.png)
 
@@ -125,7 +102,6 @@ Next, the maintainers will triage the issue.
 That means they will assess if the term should be part of the Glossary. 
 Not every term will be admitted. To be included in the Glossary, they should be established and widely-used cloud native concepts.
 
-Please let the maintainers know that you've proposed a new term on Slack and tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ so that they don't miss it.
 If you want to work on the definition, let the maintainers know and they'll assign it to you.
 
 ### Submitting a new term (creating a PR) {#submitting-a-new-term}
@@ -179,8 +155,8 @@ or work on the changes yourself and submit a PR.
 
 ### Request a change via an issue {#request-a-change-via-an-issue}
 
-If you want to flag a problem with a term, you can use the "Report issue" option of the CNCF Glossary webpage. 
-Locate yourself in the CNCF page of the concept you'd like to flag and click on "Report issue". 
+If you want to flag a problem with a term, you can use the "Report issue" option of the OpenSSF Glossary webpage. 
+Locate yourself in the OpenSSF page of the concept you'd like to flag and click on "Report issue". 
 This will automatically open an issue for you
 
 ![report issue](/images/how-to/howto-14.png)
@@ -199,13 +175,6 @@ This will open the term's GitHub page. Make your changes and create a PR.
 Please refer to the [Best practices](#best-practices) section above 
 and read our [Style Guide](/style-guide/) to make sure you follow our guidelines. 
 
-## Help localize the glossary {#help-localize-the-glossary}
-
-To help localize the glossary into a target language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack workspace and send us a message.
-You can either join an existing team or create a new one 
-(to see what it takes, read our [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
-Please read the **How to contribute** guide of the target language to gather the specifics of that team's contribution process. 
-
 ## Spell check {#spell-check}
 
 There are two main reasons why the spell check can fail:
@@ -220,6 +189,5 @@ To add new words to the list, follow these steps:
 3. Add a commit message and select "Sign off and propose changes".
 
 **Note**: the spell check is case-insensitive. 
-
 
 **We updated this guide based on templates from [The Good Docs Project](https://thegooddocsproject.dev/).**
