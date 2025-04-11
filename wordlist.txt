@@ -57,11 +57,11 @@ CSP
 CSPM
 csrc
 customizable
-CWE
-CWEs
 CVE
 CVSS
+CWE
 cwe
+CWEs
 cyber
 cybersecurity
 daniel
@@ -81,6 +81,10 @@ decrypted
 definitions
 dependabot
 deployable
+Dereference
+dereference
+dereferences
+dereferencing
 details
 devops
 devsecops
@@ -251,6 +255,7 @@ toolchain
 Traefik
 transcodes
 txt
+UB
 ubuntu
 UDP
 UI
