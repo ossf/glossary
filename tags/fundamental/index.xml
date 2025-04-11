@@ -94,4 +94,19 @@ hardening.&lt;/p>
 &lt;p>Source: &lt;a href="https://www.atera.com/glossary/security-hardening/">https://www.atera.com/glossary/security-hardening/&lt;/a>&lt;/p></description></item><item><title>: Integrity</title><link>https://glossary.openssf.org/integrity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/integrity/</guid><description>
 &lt;p>A property whereby data has not been altered in an
 unauthorized manner since it was created, transmitted, or stored.&lt;/p>
-&lt;p>Source: &lt;a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-152.pdf">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-152.pdf&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Source: &lt;a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-152.pdf">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-152.pdf&lt;/a>&lt;/p></description></item><item><title>: Negative Testing</title><link>https://glossary.openssf.org/negative-testing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/negative-testing/</guid><description>
+&lt;p>Negative testing, also called “error path testing” or “invalid input
+testing,” is a software testing methodology that evaluates how
+systems and applications handle unexpected inputs and conditions.
+This is contrasted with positive testing, that is, testing the &amp;ldquo;happy path&amp;rdquo;
+initiated by expected inputs.&lt;/p>
+&lt;p>Negative testing includes testing to ensure that what should not happen
+does not happen. This is vital for security.
+For example, if a user should not be able to delete an object owned by another
+user, it&amp;rsquo;s important to &lt;em>test&lt;/em> this is the case.
+If a field is supposed to only provide a number, a negative test should
+ensure that non-numbers are rejected.
+Many test suites only test the &amp;ldquo;happy path&amp;rdquo; of expected values.
+Many security properties are negative (&amp;ldquo;X should never happen&amp;rdquo;), so failing to
+apply negative testing can lead to serious security vulnerabilities.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.ranorex.com/blog/positive-testing-vs-negative-testing-key-differences/">https://www.ranorex.com/blog/positive-testing-vs-negative-testing-key-differences/&lt;/a>&lt;/p></description></item></channel></rss>
