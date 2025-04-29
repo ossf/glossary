@@ -32,7 +32,7 @@
     "postcss-cli": "^11.0.0"
   },
   "optionalDependencies": {
-    "netlify-cli": "^19.1.5",
+    "netlify-cli": "^20.1.1",
     "npm-check-updates": "^16.14.20"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
