@@ -36,6 +36,7 @@ jobs:
 
       - run: npm ci
       - run: hugo --baseURL https://glossary.openssf.org --minify
+      - run: npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind'
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
