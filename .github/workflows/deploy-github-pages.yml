@@ -36,11 +36,10 @@ jobs:
 
       - run: npm ci
       - run: hugo --baseURL https://glossary.openssf.org --minify
-      - run: npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind'
+      - run: npm_config_yes=true npx pagefind --site 'public' --output-subdir 'pagefind'
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.ref == 'refs/heads/main' }} # <-- specify same branch as above here
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          allow_empty_commit: true
