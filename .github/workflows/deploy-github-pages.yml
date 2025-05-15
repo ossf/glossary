@@ -35,7 +35,7 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
 
       - run: npm ci
-      - run: hugo --baseURL https://glossary.openssf.org --minify
+      - run: hugo --baseURL https://glossary.openssf.org/ --minify
       - run: npm_config_yes=true npx pagefind --site 'public' --output-subdir 'pagefind'
 
       - name: Deploy
