@@ -32,7 +32,7 @@
     "postcss-cli": "^11.0.0"
   },
   "optionalDependencies": {
-    "npm-check-updates": "^16.14.20"
+    "npm-check-updates": "^19.6.5"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
   "engines": {
