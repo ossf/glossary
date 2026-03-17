@@ -1,8 +1,8 @@
 ---
 title: Audit
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "grc"]
 ---
 
 An audit is a formal, opinionated review of an organization's [policy](policy.md) and security posture at a specific time to confirm that stated requirements are met.

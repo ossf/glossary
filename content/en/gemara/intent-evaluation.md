@@ -1,8 +1,8 @@
 ---
 title: Intent Evaluation
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 An intent evaluation is an [evaluation](evaluation.md) that checks whether a resource is prepared in line with [policy](policy.md), for example through training, configuration, or code.

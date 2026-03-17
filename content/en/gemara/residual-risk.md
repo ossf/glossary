@@ -1,8 +1,8 @@
 ---
 title: Residual Risk
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Residual risk is the [risk](risk.md) that remains after [risk mitigation](risk-mitigation.md) and [enforcement](enforcement.md) actions have been applied.

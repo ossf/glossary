@@ -1,8 +1,8 @@
 ---
 title: Threat
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 A threat is a situation or event in which the ideas behind a [vector](vector.md) are applied to a [capability](capability.md) in a specific context, with the potential for harm.

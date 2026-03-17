@@ -1,8 +1,8 @@
 ---
 title: Opinion
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 An opinion is a firmly held view of reality formed within the limits of an evaluator's approach, perspective, and capabilities.

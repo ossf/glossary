@@ -1,8 +1,8 @@
 ---
 title: Risk Assessment
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Risk assessment is the process of identifying the potential or actual [risk](risk.md)s that a system introduces.

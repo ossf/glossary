@@ -1,8 +1,8 @@
 ---
 title: Governance
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Governance is the strategic oversight of an [organization](organization.md) and its activities.

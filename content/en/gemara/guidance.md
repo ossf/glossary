@@ -1,8 +1,8 @@
 ---
 title: Guidance
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 Guidance is prose meant to help achieve a desired outcome for a topic or general scenario, based on knowledge of relevant [vector](vector.md)s.

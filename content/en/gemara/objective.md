@@ -1,8 +1,8 @@
 ---
 title: Objective
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 An objective is a single statement of intent that can cover multiple situation-specific statements or requirements.

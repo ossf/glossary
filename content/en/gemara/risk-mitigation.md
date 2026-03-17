@@ -1,8 +1,8 @@
 ---
 title: Risk Mitigation
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Risk mitigation is the process of defining and taking actions to prevent [threat](threat.md)s or reduce their impact on [organization](organization.md) objectives.

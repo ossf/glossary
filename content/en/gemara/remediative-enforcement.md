@@ -1,8 +1,8 @@
 ---
 title: Remediative Enforcement
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Remediative enforcement is corrective action taken after non-compliance is found in a deployed activity.

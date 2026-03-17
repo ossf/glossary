@@ -1,8 +1,8 @@
 ---
 title: Evaluation Finding
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 An evaluation finding is the evidence and opinionated result of an [assessment](assessment.md).

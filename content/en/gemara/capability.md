@@ -1,8 +1,8 @@
 ---
 title: Capability
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 A capability is a feature or function of a system and is a main part of its attack surface.

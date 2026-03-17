@@ -1,8 +1,8 @@
 ---
 title: Guideline
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 A guideline is a single element in a [guidance](guidance.md) [catalog](catalog.md), often with context and recommendations for designing or implementing something well.

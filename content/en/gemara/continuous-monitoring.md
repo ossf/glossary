@@ -1,8 +1,8 @@
 ---
 title: Continuous Monitoring
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Continuous monitoring is a multi-system process that gathers [evaluation](evaluation.md) and operational data over time to detect non-compliance and malicious activity, support [remediative enforcement](remediative-enforcement.md), and track trends.

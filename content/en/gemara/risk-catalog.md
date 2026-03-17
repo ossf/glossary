@@ -1,8 +1,8 @@
 ---
 title: Risk Catalog
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 A risk catalog is a group of related [risk](risk.md)s that are relevant to an [organization](organization.md), used to decide when and how [policy](policy.md) is created.

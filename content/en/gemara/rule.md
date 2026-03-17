@@ -1,8 +1,8 @@
 ---
 title: Rule
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 A rule is an active, enforceable [policy](policy.md), regulation, or law.

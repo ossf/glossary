@@ -1,8 +1,8 @@
 ---
 title: Sensitive Activity
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 A sensitive activity is a type of action that introduces [risk](risk.md) to an [organization](organization.md).

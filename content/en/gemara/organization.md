@@ -1,8 +1,8 @@
 ---
 title: Organization
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 An organization is any logical grouping of people, physical and virtual assets, and information, such as a company, business unit, or team.

@@ -1,8 +1,8 @@
 ---
 title: Preventive Enforcement
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Preventive enforcement is any action that stops another process from causing non-compliance before it happens.

@@ -1,8 +1,8 @@
 ---
 title: Enforcement
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 Enforcement is an action taken in response to non-compliance and its causes.

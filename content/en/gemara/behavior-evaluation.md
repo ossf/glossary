@@ -1,8 +1,8 @@
 ---
 title: Behavior Evaluation
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 A behavior evaluation is an opinionated observation of actions that are simulated or that occur in real use.

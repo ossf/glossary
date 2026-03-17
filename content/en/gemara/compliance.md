@@ -1,8 +1,8 @@
 ---
 title: Compliance
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "grc"]
 ---
 
 Compliance is adherence to a [rule](rule.md) or set of rules.

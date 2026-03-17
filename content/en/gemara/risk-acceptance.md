@@ -1,8 +1,8 @@
 ---
 title: Risk Acceptance
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 Risk acceptance is a clearly documented decision to accept an unmitigated [risk](risk.md) as necessary or unavoidable.

@@ -1,8 +1,8 @@
 ---
 title: GRC
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["acronym", "fundamental"]
+tags: ["gemara"]
 ---
 
 GRC stands for Governance, Risk, and Compliance.

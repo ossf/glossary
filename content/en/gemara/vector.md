@@ -1,8 +1,8 @@
 ---
 title: Vector
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "grc", "fundamental"]
 ---
 
 A vector is (1) an opportunity for an attacker to exploit a [vulnerability](vulnerability.md) in a system, or (2) a path by which neglect could lead to unintentional harm.

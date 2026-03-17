@@ -1,8 +1,8 @@
 ---
 title: Policy
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 A policy is a clearly scoped set of [rule](rule.md)s based on an [organization](organization.md)'s [risk appetite](risk-appetite.md).

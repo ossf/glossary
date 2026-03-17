@@ -1,8 +1,8 @@
 ---
 title: Evaluation
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 Evaluation is the manual or automated process of forming an [opinion](opinion.md) on the state of [compliance](compliance.md), using a set of [assessment requirement](assessment-requirement.md)s as a guide.

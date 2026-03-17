@@ -1,8 +1,8 @@
 ---
 title: Catalog
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara"]
 ---
 
 A catalog is a structured set of related text and metadata, such as [guidance](guidance.md), [control](control.md)s, or [threat](threat.md)s.

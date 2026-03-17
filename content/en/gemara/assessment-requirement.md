@@ -1,8 +1,8 @@
 ---
 title: Assessment Requirement
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "grc"]
 ---
 
 An assessment requirement is a narrow, checkable condition that an evaluator must confirm is satisfied.

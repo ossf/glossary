@@ -1,8 +1,8 @@
 ---
 title: Assessment
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "grc"]
 ---
 
 An assessment is either the process of checking whether an outcome matches what someone intended, or a single step inside an [evaluation](evaluation.md) that determines whether a resource meets an [assessment requirement](assessment-requirement.md).

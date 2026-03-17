@@ -1,8 +1,8 @@
 ---
 title: Risk Appetite
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 Risk appetite is the amount of [risk](risk.md) an [organization](organization.md) is willing to accept in pursuit of its objectives.

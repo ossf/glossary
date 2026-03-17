@@ -1,8 +1,8 @@
 ---
 title: Risk
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 Risk is the potential for loss or damage when a [threat](threat.md) is realized, often described by the impact of an event on an [organization](organization.md) and the likelihood of it occurring.

@@ -1,8 +1,8 @@
 ---
 title: Control
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["fundamental"]
+tags: ["gemara", "fundamental"]
 ---
 
 A control can mean: (1) an organization's ability to set and maintain desired state on a system or resource; (2) a mechanism such as a safeguard or countermeasure that enforces that state; or (3) written description of the [objective](objective.md) and [assessment requirement](assessment-requirement.md)s for that desired state.
