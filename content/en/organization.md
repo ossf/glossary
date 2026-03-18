@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara"]
 ---
 
-An organization is any logical grouping of people, physical and virtual assets, and information, such as a company, business unit, or team.
+An organization is any logical grouping of human, physical, virtual, and information resources, such as a company, business unit, or team.
 
 ## Problem it addresses
 

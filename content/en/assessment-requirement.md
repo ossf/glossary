@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara", "grc"]
 ---
 
-An assessment requirement is a narrow, checkable condition that an evaluator must confirm is satisfied.
+An assessment requirement is a tightly scoped, verifiable condition that must be satisfied and confirmed by an evaluator.
 
 ## Problem it addresses
 

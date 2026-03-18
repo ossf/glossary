@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara", "grc"]
 ---
 
-An assessment is either the process of checking whether an outcome matches what someone intended, or a single step inside an [evaluation](evaluation.md) that determines whether a resource meets an [assessment requirement](assessment-requirement.md).
+An assessment is (1) the process of determining whether an outcome meets the actor's intent, or (2) an atomic process within an [evaluation](evaluation.md) used to determine a resource's [compliance](compliance.md) with an [assessment requirement](assessment-requirement.md).
 
 ## Problem it addresses
 

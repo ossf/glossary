@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara"]
 ---
 
-An objective is a single statement of intent that can cover multiple situation-specific statements or requirements.
+An objective is a unified statement of intent that may encompass multiple situationally applicable statements or requirements.
 
 ## Problem it addresses
 

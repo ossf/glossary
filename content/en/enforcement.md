@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara", "fundamental"]
 ---
 
-Enforcement is an action taken in response to non-compliance and its causes.
+Enforcement is an action taken in response to non-compliance findings and their causes.
 
 ## Problem it addresses
 

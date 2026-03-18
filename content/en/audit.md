@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara", "grc"]
 ---
 
-An audit is a formal, opinionated review of an organization's [policy](policy.md) and security posture at a specific time to confirm that stated requirements are met.
+An audit is a formal, opinionated review of an organization's [policy](policy.md) and posture, conducted at a specific point in time to verify that established requirements are met.
 
 ## Problem it addresses
 

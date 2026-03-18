@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara"]
 ---
 
-An opinion is a firmly held view of reality formed within the limits of an evaluator's approach, perspective, and capabilities.
+An opinion is a firmly held approximation of reality formed within the constraints of an evaluator's philosophy, perspective, and capabilities.
 
 ## Problem it addresses
 

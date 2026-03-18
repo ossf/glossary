@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara"]
 ---
 
-A guideline is a single element in a [guidance](guidance.md) [catalog](catalog.md), often with context and recommendations for designing or implementing something well.
+A guideline is an atomic element of a [guidance](guidance.md) [catalog](catalog.md); often includes explanatory context and recommendations for designing optimal implementations.
 
 ## Problem it addresses
 

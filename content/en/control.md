@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara", "fundamental"]
 ---
 
-A control can mean: (1) an organization's ability to set and maintain desired state on a system or resource; (2) a mechanism such as a safeguard or countermeasure that enforces that state; or (3) written description of the [objective](objective.md) and [assessment requirement](assessment-requirement.md)s for that desired state.
+A control can mean: (1) an organization's ability to fully assert desired state on a system, resource, or state; (2) a mechanism such as a safeguard or countermeasure that asserts desired state; or (3) prose describing the [objective](objective.md) and [assessment requirement](assessment-requirement.md)s associated with a desired state.
 
 ## Problem it addresses
 

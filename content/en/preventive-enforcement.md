@@ -5,7 +5,7 @@ category: concept
 tags: ["gemara"]
 ---
 
-Preventive enforcement is any action that stops another process from causing non-compliance before it happens.
+Preventive enforcement is any action that interrupts another process which would otherwise cause non-compliance.
 
 ## Problem it addresses
 
