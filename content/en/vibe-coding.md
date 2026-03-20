@@ -6,7 +6,7 @@ tags: ["fundamental", ""]
 ---
 
 Vibe coding is the process of generating and accepting AI-generated code without reviewing it or
-understanding it, instead relying entirely on results and follow-up prompts to guide changes.
+understanding it, "instead relying entirely on results and follow-up prompts to guide changes".
 
 Andrej Karpathy coined the term in February 2025.
 He described it as "where you fully give in to the vibes... and
