@@ -118,4 +118,16 @@ apply negative testing can lead to serious security vulnerabilities.&lt;/p>
 &lt;p>Source: &lt;a href="https://reproducible-builds.org/docs/definition/">https://reproducible-builds.org/docs/definition/&lt;/a>&lt;/p></description></item><item><title>: Source code</title><link>https://glossary.openssf.org/source-code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/source-code/</guid><description>
 &lt;p>Source code is the preferred form of the work for making modifications to it.&lt;/p>
 &lt;p>A build process converts source code into object code.&lt;/p>
-&lt;p>Source: &lt;a href="https://www.gnu.org/licenses/gpl-3.0.en.html">https://www.gnu.org/licenses/gpl-3.0.en.html&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Source: &lt;a href="https://www.gnu.org/licenses/gpl-3.0.en.html">https://www.gnu.org/licenses/gpl-3.0.en.html&lt;/a>&lt;/p></description></item><item><title>: Vibe coding</title><link>https://glossary.openssf.org/vibe-coding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/vibe-coding/</guid><description>
+&lt;p>Vibe coding is the process of generating and accepting AI-generated code without reviewing it or
+understanding it, &amp;ldquo;instead relying entirely on results and follow-up prompts to guide changes&amp;rdquo;.&lt;/p>
+&lt;p>Andrej Karpathy coined the term in February 2025.
+He described it as &amp;ldquo;where you fully give in to the vibes&amp;hellip; and
+forget that the code even exists&amp;hellip; I don&amp;rsquo;t read the diffs&amp;hellip; when
+I get error messages I just copy paste them in with no comment&amp;hellip;&amp;rdquo;&lt;/p>
+&lt;p>Vibe coding can quickly generate code that is often functional, but it risks
+generating and deploying highly vulnerable code.&lt;/p>
+&lt;p>If there is human review of the AI-generated code, then it is not vibe coding.&lt;/p>
+&lt;p>Source:
+&lt;a href="https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/">https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/&lt;/a>
+&lt;a href="https://en.wikipedia.org/w/index.php?title=Vibe_coding&amp;oldid=1343939704">https://en.wikipedia.org/w/index.php?title=Vibe_coding&amp;oldid=1343939704&lt;/a>&lt;/p></description></item></channel></rss>
