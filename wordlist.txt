@@ -1,5 +1,6 @@
 albertvolkman
 alibaba
+Andrej
 aniszczyk
 apis
 architected
@@ -147,6 +148,7 @@ jonasbn
 jones
 josé
 js
+Karpathy
 katelin
 keda
 keys
