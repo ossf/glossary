@@ -14,7 +14,7 @@ Long, fragmented requirement lists are hard to maintain and communicate.
 
 ## How it helps
 
-An objective gives a clear, high-level goal that can be broken into [assessment requirement](assessment-requirement.md)s and [control](control.md)s.
-It supports [policy](policy.md) and [evaluation](evaluation.md) by linking intent to verifiable conditions.
+An objective gives a clear, high-level goal that can be broken into [assessment requirement](assessment-requirement)s and [control](control)s.
+It supports [policy](policy) and [evaluation](evaluation) by linking intent to verifiable conditions.
 
 Source: [Gemara: A Governance, Risk, and Compliance Engineering Model for Automated Risk Assessment](https://openssf.org/resources/gemara-a-governance-risk-and-compliance-engineering-model-for-automated-risk-assessment/)
