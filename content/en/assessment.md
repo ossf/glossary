@@ -1,0 +1,20 @@
+---
+title: Assessment
+status: Completed
+category: concept
+tags: ["gemara", "grc"]
+---
+
+An assessment is (1) the process of determining whether an outcome meets the actor's intent, or (2) an atomic process within an [evaluation](evaluation) used to determine a resource's [compliance](compliance) with an [assessment requirement](assessment-requirement).
+
+## Problem it addresses
+
+Organizations need to know whether their systems and processes actually meet the rules they have set.
+A single, repeatable way to answer "did we meet this requirement?" is missing without a clear idea of what an assessment is.
+
+## How it helps
+
+Defining assessment as a process (or an atomic step within evaluation) gives teams a shared way to check [compliance](compliance).
+It separates the act of judging from the broader [evaluation](evaluation) and from the requirements being checked.
+
+Source: [Gemara: A Governance, Risk, and Compliance Engineering Model for Automated Risk Assessment](https://openssf.org/resources/gemara-a-governance-risk-and-compliance-engineering-model-for-automated-risk-assessment/)
