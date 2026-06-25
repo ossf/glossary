@@ -1,7 +1,8 @@
 ---
 title: Catalog
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 A catalog is a comprehensive collection of security and privacy controls that can be selected and tailored by an organization to protect its information systems and operations.

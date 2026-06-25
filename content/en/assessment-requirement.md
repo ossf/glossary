@@ -1,7 +1,8 @@
 ---
 title: Assessment Requirement
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 An assessment requirement (or assessment objective) is a set of determination statements related to a security control that dictates what must be evaluated to ensure compliance and effectiveness.

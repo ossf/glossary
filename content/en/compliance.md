@@ -1,7 +1,8 @@
 ---
 title: Compliance
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 Compliance is the adherence to, and the ability to demonstrate adherence to, mandated requirements defined by laws, regulations, and organizational standards.

@@ -1,7 +1,8 @@
 ---
 title: Objective
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 An objective is a statement of the expected results or intent of a specific policy, control, or security program, aimed at mitigating risk and achieving desired security outcomes.

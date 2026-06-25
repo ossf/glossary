@@ -1,7 +1,8 @@
 ---
 title: Guidance
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 Guidance consists of non-prescriptive statements that explain how to implement security controls, meet objectives, or establish best practices within an organization to achieve a secure posture.

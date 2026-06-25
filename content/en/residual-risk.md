@@ -1,7 +1,8 @@
 ---
 title: Residual Risk
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 Residual risk is the risk that remains after management has taken action to alter its severity, such as implementing mitigating security controls or remediation efforts.

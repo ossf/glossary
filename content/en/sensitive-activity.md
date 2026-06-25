@@ -1,7 +1,8 @@
 ---
 title: Sensitive Activity
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 A sensitive activity is an action or function that requires special protection or strict access control because it introduces elevated operational, financial, or security risk to an organization if compromised.

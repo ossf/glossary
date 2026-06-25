@@ -1,7 +1,8 @@
 ---
 title: Guideline
-status: Feedback Appreciated
-category: concepttags: []
+status: Completed
+category: concept
+tags: []
 ---
 
 A guideline is a statement used to provide additional explanatory information for a specific rule, standard, or control, often recommending a specific approach to implementation without being strictly mandatory.
