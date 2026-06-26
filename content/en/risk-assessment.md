@@ -2,7 +2,7 @@
 title: Risk Assessment
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 Risk assessment is the process of identifying, estimating, and prioritizing risks to organizational operations (including mission, functions, image, reputation), assets, and individuals resulting from the operation of an information system.

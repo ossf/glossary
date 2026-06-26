@@ -2,7 +2,7 @@
 title: Residual Risk
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 Residual risk is the risk that remains after management has taken action to alter its severity, such as implementing mitigating security controls or remediation efforts.

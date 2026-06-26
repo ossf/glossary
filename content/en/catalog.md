@@ -2,7 +2,7 @@
 title: Catalog
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 A catalog is a comprehensive collection of security and privacy controls that can be selected and tailored by an organization to protect its information systems and operations.

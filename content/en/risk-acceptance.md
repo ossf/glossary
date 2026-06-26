@@ -2,7 +2,7 @@
 title: Risk Acceptance
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 Risk acceptance is a formal, documented decision to accept the identified risk and monitor it periodically, usually because the cost of mitigation outweighs the potential loss or the risk falls within accepted thresholds.

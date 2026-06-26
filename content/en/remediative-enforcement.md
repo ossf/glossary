@@ -2,7 +2,7 @@
 title: Remediative Enforcement
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 Remediative enforcement (or corrective control) refers to corrective actions or enforcement mechanisms taken to remediate, correct, or restore a system after an unauthorized event or non-compliance incident has been identified.

@@ -2,7 +2,7 @@
 title: Continuous Monitoring
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 Continuous monitoring is the process of maintaining ongoing awareness of information security, vulnerabilities, and threats to support organizational risk management decisions.

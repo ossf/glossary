@@ -2,7 +2,7 @@
 title: Policy
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 A policy is a set of statements, rules, or assertions, formulated and enforced by the governing body of an organization, to direct and limit its actions in pursuit of long-term goals and specify expected behaviors.

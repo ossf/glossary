@@ -2,7 +2,7 @@
 title: Objective
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 An objective is a statement of the expected results or intent of a specific policy, control, or security program, aimed at mitigating risk and achieving desired security outcomes.

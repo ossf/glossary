@@ -2,7 +2,7 @@
 title: Compliance
 status: Completed
 category: concept
-tags: []
+tags: ["gemara","",""]
 ---
 
 Compliance is the adherence to, and the ability to demonstrate adherence to, mandated requirements defined by laws, regulations, and organizational standards.

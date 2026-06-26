@@ -125,6 +125,7 @@ flaxman
 fu
 fuzzers
 gcp
+gemara
 github
 gitops
 gmail
@@ -241,6 +242,7 @@ runtimes
 saas
 sandboxed
 saneheaders
+SANS
 sbates
 scalability
 scalable
