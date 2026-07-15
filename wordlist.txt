@@ -60,8 +60,8 @@ csrc
 customizable
 CVE
 CVSS
-CWE
 cwe
+CWE
 CWEs
 cyber
 cybersecurity
@@ -70,10 +70,10 @@ DAST
 datacenter
 datacenters
 datadog
-DBA
 dba
-DBaaS
+DBA
 dbaas
+DBaaS
 de
 Dechand
 declaratively
@@ -82,8 +82,8 @@ decrypted
 definitions
 dependabot
 deployable
-Dereference
 dereference
+Dereference
 dereferences
 dereferencing
 details
@@ -140,11 +140,12 @@ inlinehilite
 interdependencies
 io
 iot
-Ispas
+ISACA
 ispas
+Ispas
 jason
-Jihoon
 jihoon
+Jihoon
 jonasbn
 jones
 josé
@@ -209,6 +210,7 @@ ramer
 RBAC
 rdbms
 readme
+remediative
 replicable
 reusability
 rojopolis
@@ -226,8 +228,8 @@ Scanlon
 sce
 SDK
 SDKs
-Seo
 seo
+Seo
 seokho
 Sergej
 serverless
