@@ -30,10 +30,12 @@ jobs:
     steps:
     - name: Set up environment variables for the target L10n team
       shell: bash
+      env:
+        BASE_REF: ${{ github.base_ref }}
       run: |
-        
+
         # Set L10n branch
-        L10N_BRANCH="${{github.base_ref}}"
+        L10N_BRANCH="${BASE_REF}"
         echo "(DEBUG) L10N Branch: ${L10N_BRANCH}"
         
         # Set output direcory
@@ -74,6 +76,10 @@ jobs:
     - name: Check outdated
       id: checker
       shell: bash
+      env:
+        REF: ${{ github.ref }}
+        HEAD_REF: ${{ github.head_ref }}
+        BASE_REF: ${{ github.base_ref }}
       run: |
         ##### DEBUG section, this will be removed later ###########
         ls -al
@@ -85,9 +91,9 @@ jobs:
         echo "Extract branch: ${GITHUB_REF#refs/}"
         
         # `github` context information
-        echo "(DEBUG) github.ref: ${{github.ref}}"
-        echo "(DEBUG) github.head_ref: ${{github.head_ref}}"
-        echo "(DEBUG) github.base_ref: ${{github.base_ref}}"
+        echo "(DEBUG) github.ref: ${REF}"
+        echo "(DEBUG) github.head_ref: ${HEAD_REF}"
+        echo "(DEBUG) github.base_ref: ${BASE_REF}"
         echo "(DEBUG) L10N_DIR: ${L10N_DIR}"
         echo "(DEBUG) L10N_DIR: ${{ env.L10N_DIR }}"
         #####################################################
@@ -99,7 +105,7 @@ jobs:
         
         # Get the old branch from 'github.base_ref' 
         # The old branch can be 'upstream/dev-ko'
-        OLD_BRANCH="origin/${{github.base_ref}}"
+        OLD_BRANCH="origin/${BASE_REF}"
         echo "(DEBUG) OLD_BRANCH: ${OLD_BRANCH}"
 
         L10N_INFO_JSON=$(cat <<EOF
