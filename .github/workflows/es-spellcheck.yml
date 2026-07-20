@@ -23,12 +23,12 @@ jobs:
     name: Run PySpelling tool to verify spanish spelling issues
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 #v7
       - name: Check word list sort
         run: |
           set -o errexit
           diff content/es/.wordlist.txt <(LC_ALL= sort -f content/es/.wordlist.txt)
       - name: GitHub Spellcheck Action
-        uses: rojopolis/spellcheck-github-actions@0.60.0
+        uses: rojopolis/spellcheck-github-actions@e619e00ca22f01ade9d73048dcd6518bedc552f2 #v0.60.0
         with:
           config_path: content/es/.spellcheck.yml
