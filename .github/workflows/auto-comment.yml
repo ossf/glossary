@@ -15,7 +15,7 @@ jobs:
     steps:
     # Checkout the repository code to the runner.
     - name: Checkout code
-      uses: actions/checkout@v7
+      uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 #v7
 
     # Create a bin directory in the runner's home
     - name: Create bin directory
