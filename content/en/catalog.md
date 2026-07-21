@@ -5,6 +5,12 @@ category: concept
 tags: ["gemara","",""]
 ---
 
-A catalog is a comprehensive collection of security and privacy controls that can be selected and tailored by an organization to protect its information systems and operations.
+A structured set of related prose and relevant metadata.
 
-Source: [NIST CSRC Glossary - Security Control Catalog](https://csrc.nist.gov/glossary/term/security_control_catalog)
+### Industry Cross-Reference
+
+*Industry Equivalent: Catalog*
+
+The collection of all assessment elements.
+
+Source: [NIST CSRC Glossary - Catalog](https://csrc.nist.gov/glossary/term/catalog)

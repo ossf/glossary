@@ -5,6 +5,12 @@ category: concept
 tags: ["gemara","",""]
 ---
 
-Remediative enforcement (or corrective control) refers to corrective actions or enforcement mechanisms taken to remediate, correct, or restore a system after an unauthorized event or non-compliance incident has been identified.
+Corrective action in response to non-compliance in a deployed activity.
+
+### Industry Cross-Reference
+
+*Industry Equivalent: Corrective Control*
+
+A control designed to correct errors, omissions, unauthorized uses and intrusions, once they are detected.
 
 Source: [ISACA Glossary - Corrective Control](https://www.isaca.org/resources/glossary)

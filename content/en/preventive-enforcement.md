@@ -5,6 +5,12 @@ category: concept
 tags: ["gemara","",""]
 ---
 
-Preventive enforcement (or preventive control) refers to security controls or enforcement mechanisms designed to detect and prevent an unauthorized event, error, or non-compliance incident from occurring.
+Any action that interrupts another process which would otherwise cause non-compliance.
+
+### Industry Cross-Reference
+
+*Industry Equivalent: Preventive Control*
+
+An internal control that is used to avoid undesirable events, errors and other occurrences that an enterprise has determined could have a negative material effect on a process or end product.
 
 Source: [ISACA Glossary - Preventive Control](https://www.isaca.org/resources/glossary)

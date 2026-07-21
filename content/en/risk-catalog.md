@@ -5,6 +5,12 @@ category: concept
 tags: ["gemara","",""]
 ---
 
-A risk catalog (or risk register) is a consolidated list or repository of identified risks, risk scenarios, and threat models used to track mitigation efforts and inform enterprise risk management.
+A group of related Risks relevant to an organization; used to determine when and how Policies are created for the organization.
+
+### Industry Cross-Reference
+
+*Industry Equivalent: Risk Register*
+
+A list of risk scenarios that have been identified, analyzed and prioritized.
 
 Source: [ISACA Glossary - Risk Register](https://www.isaca.org/resources/glossary)

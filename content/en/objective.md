@@ -5,6 +5,12 @@ category: concept
 tags: ["gemara","",""]
 ---
 
-An objective is a statement of the expected results or intent of a specific policy, control, or security program, aimed at mitigating risk and achieving desired security outcomes.
+A unified statement of intent, which may encompass multiple situationally applicable statements or requirements.
 
-Source: [NIST CSRC Glossary - Security Objective](https://csrc.nist.gov/glossary/term/security_objective)
+### Industry Cross-Reference
+
+*Industry Equivalent: Objective*
+
+A statement of a desired outcome.
+
+Source: [ISACA Glossary - Objective](https://www.isaca.org/resources/glossary)
