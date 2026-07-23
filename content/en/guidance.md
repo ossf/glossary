@@ -6,3 +6,5 @@ tags: ["gemara","",""]
 ---
 
 Prose intended to help bring about a desired outcome for a topic or generalized scenario, based on knowledge of relevant Vectors.
+
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)

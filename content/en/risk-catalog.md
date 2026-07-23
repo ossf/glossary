@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 A group of related Risks relevant to an organization; used to determine when and how Policies are created for the organization.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 *Industry Equivalent: Risk Register*

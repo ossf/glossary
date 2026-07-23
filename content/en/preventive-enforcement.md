@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 Any action that interrupts another process which would otherwise cause non-compliance.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 *Industry Equivalent: Preventive Control*

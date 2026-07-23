@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 A structured set of related prose and relevant metadata.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 *Industry Equivalent: Catalog*

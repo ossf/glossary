@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 The Risk remaining after Risk Mitigation and Enforcement actions have been implemented.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 *Industry Equivalent: Actual Residual Risk*

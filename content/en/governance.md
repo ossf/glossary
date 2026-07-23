@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 Strategic oversight of an organization and its activities.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 *Industry Equivalent: Risk Governance*

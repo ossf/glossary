@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 A unified statement of intent, which may encompass multiple situationally applicable statements or requirements.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 *Industry Equivalent: Objective*

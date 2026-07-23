@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 An active, enforceable Policy, regulation, or law.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 A rule is an explicitly stated principle, regulation, or authorization condition governing conduct, action, or procedure within an information system or organizational policy framework.

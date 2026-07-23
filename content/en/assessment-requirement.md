@@ -7,6 +7,8 @@ tags: ["gemara","",""]
 
 A tightly scoped, verifiable condition that must be satisfied and confirmed by an evaluator.
 
+Source: [Gemara](https://gemara.openssf.org/model/02-definitions)
+
 ### Industry Cross-Reference
 
 *Industry Equivalent: Assessment Objective*
