@@ -1,0 +1,105 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSSF Glossary – Gemara</title><link>https://glossary.openssf.org/tags/gemara/</link><description>Recent content in Gemara on OpenSSF Glossary</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://glossary.openssf.org/tags/gemara/index.xml" rel="self" type="application/rss+xml"/><item><title>: Assessment</title><link>https://glossary.openssf.org/assessment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/assessment/</guid><description>
+&lt;p>(1) the process of determining whether an outcome meets the actor’s intent; or (2) an atomic process within an Evaluation used to determine a resource’s Compliance with an Assessment Requirement.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>An assessment is the testing and/or evaluation of the management, operational, and technical security controls to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for an information system or organization.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/assessment">NIST CSRC Glossary - Assessment&lt;/a>&lt;/p></description></item><item><title>: Assessment Requirement</title><link>https://glossary.openssf.org/assessment-requirement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/assessment-requirement/</guid><description>
+&lt;p>A tightly scoped, verifiable condition that must be satisfied and confirmed by an evaluator.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Assessment Objective&lt;/em>&lt;/p>
+&lt;p>An assessment requirement (or assessment objective) is a set of determination statements related to a security control that dictates what must be evaluated to ensure compliance and effectiveness.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/assessment_objective">NIST CSRC Glossary - Assessment Objective&lt;/a>&lt;/p></description></item><item><title>: Catalog</title><link>https://glossary.openssf.org/catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/catalog/</guid><description>
+&lt;p>A structured set of related prose and relevant metadata.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Catalog&lt;/em>&lt;/p>
+&lt;p>The collection of all assessment elements.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/catalog">NIST CSRC Glossary - Catalog&lt;/a>&lt;/p></description></item><item><title>: Compliance</title><link>https://glossary.openssf.org/compliance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/compliance/</guid><description>
+&lt;p>Adherence to a Rule or set of Rules.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>Compliance is the adherence to, and the ability to demonstrate adherence to, mandated requirements defined by laws, regulations, and organizational standards.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.isaca.org/resources/glossary">ISACA Glossary - Compliance&lt;/a>&lt;/p></description></item><item><title>: Continuous Monitoring</title><link>https://glossary.openssf.org/continuous-monitoring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/continuous-monitoring/</guid><description>
+&lt;p>A multi-system process designed to collect Evaluation and operational data on an ongoing basis to better detect malicious action and non-compliance, enable Remediative Enforcement, and observe trends over time.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>Continuous monitoring is the process of maintaining ongoing awareness of information security, vulnerabilities, and threats to support organizational risk management decisions.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/continuous_monitoring">NIST CSRC Glossary - Continuous Monitoring&lt;/a>&lt;/p></description></item><item><title>: Governance</title><link>https://glossary.openssf.org/governance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/governance/</guid><description>
+&lt;p>Strategic oversight of an organization and its activities.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Risk Governance&lt;/em>&lt;/p>
+&lt;p>The process by which risk management evaluation, decisions, and actions are connected to enterprise strategy and objectives. Risk governance provides the transparency, responsibility, and accountability that enables managers to acceptably manage risk.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/risk_governance">NIST CSRC Glossary - Risk Governance&lt;/a>&lt;/p></description></item><item><title>: Guidance</title><link>https://glossary.openssf.org/guidance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/guidance/</guid><description>
+&lt;p>Prose intended to help bring about a desired outcome for a topic or generalized scenario, based on knowledge of relevant Vectors.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p></description></item><item><title>: Guideline</title><link>https://glossary.openssf.org/guideline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/guideline/</guid><description>
+&lt;p>Atomic element of a Guidance Catalog; often includes explanatory context and recommendations for designing optimal implementations.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>A guideline is a statement used to provide additional explanatory information for a specific rule, standard, or control, often recommending a specific approach to implementation without being strictly mandatory.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.isaca.org/resources/glossary">ISACA Glossary - Guideline&lt;/a>&lt;/p></description></item><item><title>: Intent Evaluation</title><link>https://glossary.openssf.org/intent-evaluation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/intent-evaluation/</guid><description>
+&lt;p>An Evaluation ensuring that a resource is prepared in alignment with Policy, such as through proper training, configuration, or code.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p></description></item><item><title>: Objective</title><link>https://glossary.openssf.org/objective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/objective/</guid><description>
+&lt;p>A unified statement of intent, which may encompass multiple situationally applicable statements or requirements.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Objective&lt;/em>&lt;/p>
+&lt;p>A statement of a desired outcome.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.isaca.org/resources/glossary">ISACA Glossary - Objective&lt;/a>&lt;/p></description></item><item><title>: Organization</title><link>https://glossary.openssf.org/organization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/organization/</guid><description>
+&lt;p>Any logical grouping of human, physical, virtual, and information resources such as a company, business unit, or team.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>An organization is an entity of any size, complexity, or positioning within an organizational structure (e.g., a federal agency, a private company, or any of its operational elements) that defines and operates its own governance structure.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/organization">NIST CSRC Glossary - Organization&lt;/a>&lt;/p></description></item><item><title>: Policy</title><link>https://glossary.openssf.org/policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/policy/</guid><description>
+&lt;p>A clearly-scoped set of rules based on an organization’s Risk Appetite.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>A policy is a set of statements, rules, or assertions, formulated and enforced by the governing body of an organization, to direct and limit its actions in pursuit of long-term goals and specify expected behaviors.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/policy">NIST CSRC Glossary - Policy&lt;/a>&lt;/p></description></item><item><title>: Preventive Enforcement</title><link>https://glossary.openssf.org/preventive-enforcement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/preventive-enforcement/</guid><description>
+&lt;p>Any action that interrupts another process which would otherwise cause non-compliance.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Preventive Control&lt;/em>&lt;/p>
+&lt;p>An internal control that is used to avoid undesirable events, errors and other occurrences that an enterprise has determined could have a negative material effect on a process or end product.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.isaca.org/resources/glossary">ISACA Glossary - Preventive Control&lt;/a>&lt;/p></description></item><item><title>: Remediative Enforcement</title><link>https://glossary.openssf.org/remediative-enforcement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/remediative-enforcement/</guid><description>
+&lt;p>Corrective action in response to non-compliance in a deployed activity.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Corrective Control&lt;/em>&lt;/p>
+&lt;p>A control designed to correct errors, omissions, unauthorized uses and intrusions, once they are detected.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.isaca.org/resources/glossary">ISACA Glossary - Corrective Control&lt;/a>&lt;/p></description></item><item><title>: Residual Risk</title><link>https://glossary.openssf.org/residual-risk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/residual-risk/</guid><description>
+&lt;p>The Risk remaining after Risk Mitigation and Enforcement actions have been implemented.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Actual Residual Risk&lt;/em>&lt;/p>
+&lt;p>Residual risk is the risk that remains after management has taken action to alter its severity, such as implementing mitigating security controls or remediation efforts.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/actual_residual_risk">NIST CSRC Glossary - Actual Residual Risk&lt;/a>&lt;/p></description></item><item><title>: Risk Acceptance</title><link>https://glossary.openssf.org/risk-acceptance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/risk-acceptance/</guid><description>
+&lt;p>A clearly documented decision to accept an unmitigated Risk as necessary or unavoidable.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>Risk acceptance is a formal, documented decision to accept the identified risk and monitor it periodically, usually because the cost of mitigation outweighs the potential loss or the risk falls within accepted thresholds.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.isaca.org/resources/glossary">ISACA Glossary - Risk Acceptance&lt;/a>&lt;/p></description></item><item><title>: Risk Appetite</title><link>https://glossary.openssf.org/risk-appetite/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/risk-appetite/</guid><description>
+&lt;p>The level of Risk an organization is willing to accept in pursuit of its objectives.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>Risk appetite is the types and broad-based amount of risk an organization is willing to accept in its pursuit of value or mission/vision.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/risk_appetite">NIST CSRC Glossary - Risk Appetite&lt;/a>&lt;/p></description></item><item><title>: Risk Assessment</title><link>https://glossary.openssf.org/risk-assessment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/risk-assessment/</guid><description>
+&lt;p>The process of identifying the potential or actual Risks introduced by a system.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>Risk assessment is the process of identifying, estimating, and prioritizing risks to organizational operations (including mission, functions, image, reputation), assets, and individuals resulting from the operation of an information system.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/risk_assessment">NIST CSRC Glossary - Risk Assessment&lt;/a>&lt;/p></description></item><item><title>: Risk Catalog</title><link>https://glossary.openssf.org/risk-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/risk-catalog/</guid><description>
+&lt;p>A group of related Risks relevant to an organization; used to determine when and how Policies are created for the organization.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>&lt;em>Industry Equivalent: Risk Register&lt;/em>&lt;/p>
+&lt;p>A list of risk scenarios that have been identified, analyzed and prioritized.&lt;/p>
+&lt;p>Source: &lt;a href="https://www.isaca.org/resources/glossary">ISACA Glossary - Risk Register&lt;/a>&lt;/p></description></item><item><title>: Rule</title><link>https://glossary.openssf.org/rule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/rule/</guid><description>
+&lt;p>An active, enforceable Policy, regulation, or law.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p>
+&lt;h3 id="industry-cross-reference">Industry Cross-Reference&lt;/h3>
+&lt;p>A rule is an explicitly stated principle, regulation, or authorization condition governing conduct, action, or procedure within an information system or organizational policy framework.&lt;/p>
+&lt;p>Source: &lt;a href="https://csrc.nist.gov/glossary/term/rule">NIST CSRC Glossary - Rule&lt;/a>&lt;/p></description></item><item><title>: Sensitive Activity</title><link>https://glossary.openssf.org/sensitive-activity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://glossary.openssf.org/sensitive-activity/</guid><description>
+&lt;p>A type of action that introduces Risk to an organization.&lt;/p>
+&lt;p>Source: &lt;a href="https://gemara.openssf.org/model/02-definitions">Gemara&lt;/a>&lt;/p></description></item></channel></rss>
