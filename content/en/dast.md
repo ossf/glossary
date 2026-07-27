@@ -21,4 +21,3 @@ operational phases. They simulate attacks against an application
 the application’s reactions, and determine whether it is vulnerable."
 
 Source: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf
-
